@@ -1,16 +1,2 @@
-# german_language_flashcards
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This flutter project is a simple mobile application that helps a person with german language flashcards.
+Keep in mind that this project doesn't have a database, therefore the user can only add a flashcard during the session of him using this application, and it will vanish once the session is terminated.
