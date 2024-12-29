@@ -1,2 +1,2 @@
 This flutter project is a simple mobile application that helps a person with german language flashcards.
-Keep in mind that this project doesn't have a database, therefore the user can only add a flashcard during the session of him using this application, and it will vanish once the session is terminated.
+This projetc also features a database that is hosted online via awardspace, that facilitates the user to add their own flashcard.
